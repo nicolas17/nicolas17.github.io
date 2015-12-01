@@ -10,7 +10,7 @@ SHA1: 779794e5aec65179b387fd2fe92903c846704ddc
 SHA256: f42155f8fb68df47a897e6b134e496faf66839509556396643cb2bfec5808bbe
 Section: Tweaks
 Description: Account switcher for Love Live School Idol Festival
-Depiction: /cydia/idtool-depiction.html
+Depiction: https://nicolas17.github.io/cydia/idtool-depiction.html
 Author: vega <summertriangle.dev@gmail.com>
 Name: IDTool
 
