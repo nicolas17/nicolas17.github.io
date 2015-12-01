@@ -4,14 +4,14 @@ Architecture: iphoneos-arm
 Maintainer: Nicolas Alvarez <nicolas.alvarez@gmail.com>
 Depends: firmware (>= 6.0)
 Filename: ./debs/idtool_2+gitb6d09009-2_iphoneos-arm.deb
-Size: 51272
-MD5sum: 9467a095d02701237b9526a64de9964b
-SHA1: 779794e5aec65179b387fd2fe92903c846704ddc
-SHA256: f42155f8fb68df47a897e6b134e496faf66839509556396643cb2bfec5808bbe
+Size: 51256
+MD5sum: ba7d536de8b25145a0f50038ba23b202
+SHA1: 68035ef7e345a56f4ff671465dd40a94af574670
+SHA256: ae1f54f045dc77b6a4a80bca423ef57f108e498b82289b8cc61822aa2391d167
 Section: Tweaks
 Description: Account switcher for Love Live School Idol Festival
-Depiction: https://nicolas17.github.io/cydia/idtool-depiction.html
 Author: vega <summertriangle.dev@gmail.com>
+Depiction: https://nicolas17.github.io/cydia/idtool-depiction.html
 Name: IDTool
 
 Package: totsuka.no.tsurugi.idtool
