@@ -1,4 +1,23 @@
 Package: totsuka.no.tsurugi.idtool
+Version: 2+gitb6d09009-2
+Architecture: iphoneos-arm
+Maintainer: Nicolas Alvarez <nicolas.alvarez@gmail.com>
+Depends: firmware (>= 6.0)
+Filename: ./debs/idtool_2+gitb6d09009-2_iphoneos-arm.deb
+Size: 51272
+MD5sum: 9467a095d02701237b9526a64de9964b
+SHA1: 779794e5aec65179b387fd2fe92903c846704ddc
+SHA256: f42155f8fb68df47a897e6b134e496faf66839509556396643cb2bfec5808bbe
+Section: Tweaks
+Description: Account switcher for Love Live School Idol Festival
+ Changelog:
+ * 2+gitb6d09009-2: Fix name and description, add app icon.
+ .
+ * 2+gitb6d09009-1: Initial build.
+Author: vega <summertriangle.dev@gmail.com>
+Name: IDTool
+
+Package: totsuka.no.tsurugi.idtool
 Version: 2+gitb6d09009-1
 Architecture: iphoneos-arm
 Maintainer: Nicolas Alvarez <nicolas.alvarez@gmail.com>
