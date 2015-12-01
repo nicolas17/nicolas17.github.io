@@ -11,9 +11,10 @@ SHA256: f42155f8fb68df47a897e6b134e496faf66839509556396643cb2bfec5808bbe
 Section: Tweaks
 Description: Account switcher for Love Live School Idol Festival
  Changelog:
- * 2+gitb6d09009-2: Fix name and description, add app icon.
- .
- * 2+gitb6d09009-1: Initial build.
+ <dl>
+ <dt>2+gitb6d09009-2</dt><dd>Fix name and description, add app icon.</dd>
+ <dt>2+gitb6d09009-1</dt><dd>Initial build.</dd>
+ </dl>
 Author: vega <summertriangle.dev@gmail.com>
 Name: IDTool
 
